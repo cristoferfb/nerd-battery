@@ -10,7 +10,7 @@ This is a CLI utility that display an icon of the current battery status using [
 
 ![Usage example 1](/images/example0.png)
 ![Usage example 2](/images/example1.png)
-![Usage example 3](/images/example2png)
+![Usage example 3](/images/example2.png)
 
 ## Installation
 
